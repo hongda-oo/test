@@ -34,3 +34,7 @@ A simple text-based password manager that allows the user to:
   View existing saved passwords  
   Store data in a local passwords.txt 
   Use a master password at the start (basic demonstration) 
+
+7. Multiplayer Dice Roll Game (dice_game.py)
+  A turn-based dice rolling game for 1–4 players. Each player rolls a 6-sided die and accumulates points. 
+The first player to reach 50 points wins. Includes input validation, score tracking, and a clean game loop.
